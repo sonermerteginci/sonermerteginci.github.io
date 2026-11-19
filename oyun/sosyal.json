@@ -1,0 +1,13 @@
+{
+  "hesaplar": [
+    {"id": "instagram", "ad": "Instagram", "url": "https://www.instagram.com/urbantransitgame/"},
+    {"id": "x", "ad": "X", "url": "https://x.com/urbantransitgam"},
+    {"id": "youtube", "ad": "YouTube", "url": "https://www.youtube.com/@urbantransitgame"}
+  ],
+  "kodlar": [
+    {"h": "6f36f81ec1548768e944972b14bdd005757d48b160be96783889c157670c216f", "tur": "elmas", "miktar": 25, "kaynak": "instagram", "bitis": ""},
+    {"h": "61d70f06cdfa5ce3fff86f67c273f488e97230536707db0bd497732b5cba5cc0", "tur": "para", "miktar": 50000, "kaynak": "x", "bitis": ""},
+    {"h": "90b8d750415c641d0cc5b81c98a27eb35b032dfbd673f28d1236718ed08d6b83", "tur": "para", "miktar": 50000, "kaynak": "youtube", "bitis": ""},
+    {"h": "439ba7cc546ec041caf46d8c0ca83a013a3281197c53a10f91267f37a2d6245a", "tur": "para", "miktar": 1000, "kaynak": "inceleme", "bitis": "2027-01-31"}
+  ]
+}
